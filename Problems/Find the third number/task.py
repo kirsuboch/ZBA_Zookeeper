@@ -1,0 +1,1 @@
+print(prices[2])
